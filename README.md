@@ -1,0 +1,2 @@
+# stromboli
+Template
